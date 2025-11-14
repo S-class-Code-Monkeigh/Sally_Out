@@ -22,7 +22,7 @@ The gameplay loop will consist of
 - Troops will have varying costs based of stats and abilities
 - The player can use spells to aid his troops
 
-  # Progression
+# Progression
 - After every level the player will be able to unlock a new troop or spell
 - The player can upgrade troops enabling them to "knight" the unit giving the unit a massive increase in stats
 
